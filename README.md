@@ -2,7 +2,6 @@
 
 ## Project Overview
 This project analyzes the business performance of online retail sales in the United States from 2019 to 2022.
-
 ## Tools
 - Power BI
 - Power Query
